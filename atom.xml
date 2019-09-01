@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://changhongming.github.io/"/>
+  <updated>2019-09-01T07:47:29.863Z</updated>
+  <id>https://changhongming.github.io/</id>
+  
+  <author>
+    <name>Hong-Ming, Chang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://changhongming.github.io/2019/09/01/hello-world/"/>
+    <id>https://changhongming.github.io/2019/09/01/hello-world/</id>
+    <published>2019-09-01T07:47:29.863Z</published>
+    <updated>2019-09-01T07:47:29.863Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
